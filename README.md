@@ -1,11 +1,11 @@
 <h1 align="center">Neko Contracts</h1>
 
 <p align="center">
-  <strong>Multi-chain Real-World Asset (RWA) lending and yield aggregation protocol</strong>
+  <strong>Real-World Asset (RWA) lending and yield aggregation protocol</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Neko-Protocol">Neko Protocol</a> · Ethereum (EVM) · Stellar Soroban
+  <a href="https://github.com/Neko-Protocol">Neko Protocol</a> · Stellar Soroban
 </p>
 
 Neko Protocol enables users to deposit tokenized real-world assets (RWAs) as collateral, borrow stablecoins, and earn yield through automated vault strategies. This monorepo contains smart contract implementations for both EVM-compatible chains (Ethereum, Foundry/Solidity) and Stellar Soroban (Cargo/Rust).
